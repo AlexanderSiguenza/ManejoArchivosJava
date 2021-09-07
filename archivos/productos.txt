@@ -1,0 +1,10 @@
+1-huevos c/u-$0.10
+2-pollo c/u-$5.00
+3-aceite c/u-$3.00
+4-fósforos c/u-$0.50
+5-dulces c/u-$0.80
+6-margarina c/u $0.30
+7-jabón c/u-$2.25
+8-carne c/u-$2.75
+9-gaseosa c/u-$1.80
+10-desechables c/u-$3.25
